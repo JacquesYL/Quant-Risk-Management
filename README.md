@@ -37,11 +37,7 @@ The following textbooks may be useful for additional information:
 * Options, Futures and Other Derivatives, by John C. Hull
 * Monte Carlo Methods in Financial Engineering, by Paul Glasserman
 
-## My Students
-
-
-
-## Others
+## Readers 
 
 You are free to use these notes. However, PLEASE CREATE A FORK.
 
