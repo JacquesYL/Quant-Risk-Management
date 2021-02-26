@@ -22,7 +22,7 @@ The rough outline of the course is as follows:
 6. Credit Risk - Merton's Model & Copula
 7. Credit Risk - Credit Migration Method; Contingent Claim approach and other approaches
 8. Credit Risk – Hedging Credit Risk; Credit Derivatives 
-9. Volatility derivatives 
+9. Volatility Derivatives and Recovery Theorem  
 10. Liquidity Risk, Interest Risk, and Asset-Liability Managementt 
 11. Operational Risk – Measuring Operational Risk
 12. Role of Insurance for Risk Management
