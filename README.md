@@ -1,26 +1,23 @@
-# Quant_Risk_Management
+# Quant-Risk-Management
 
 This is a M.S. level course in Financial Engineering/Quant Finance/Computational Finance/Math Finance
 
 Learning Objectives:
-1. Can differentiate between different Types of Risks (Market, Credit, Liquidity, Operational, Business,
+
+* Differentiate between different Types of Risks (Market, Credit, Liquidity, Operational, Business,
 Strategic) and measures for Risk.
-2. Apply the terminology, concepts, and tools available for risk management.
-3. Implement risk management framework for specific issues and specific risk types, Market, Credit,
+* Apply the terminology, concepts, and tools available for risk management.
+* Implement risk management framework for specific issues and specific risk types, Market, Credit,
 Interest-rate, Liquidity Risk, and Operational Risk.
-4. Apply the concepts underlying insurance and strategy for risk management using insurance.
 
 The following textbooks may be useful for additional information:
 
-Econometric Analysis by Bill Greene
-Elements of Statistical Learning by Hastie, Tibshirani, and Friedman
-Other lectures borrowed/stolen from various sources
-These are more advanced treatments:
+* Risk Management and Simulation, by Aparna Gupta
+* Commercial Bank Risk Management, by Weidong Tian
+* Options, Futures and Other Derivatives, by John C. Hull
+* Monte Carlo Methods in Financial Engineering, by Paul Glasserman
 
-Microeconometrics by Cameron and Trivedi
-Econometrics by Bruce Hansen
-
-## Two data files
+# My Students
 
 #### `stock_price_2000_2019.xlsx`
 
@@ -30,8 +27,11 @@ Econometrics by Bruce Hansen
 
 * Daily stock price of JP Morgan from 2000 to 2019. Used for option pricing 
 
-## Author
+# Others
 
-* Yueliang (Jacques) Lu -- Contact me at 
-[@JacquesYL](https://github.com/JacquesYL) or luyueliang [at] outlook [dot] com
+You are free to use these notes. However, PLEASE CREATE A FORK.
+
+Everything is distributed under Creative Commons Attribution Share Alike 4.0 (You can use it freely but you are expected to post source of derivative work).
+
+Contact: [@JacquesYL](https://github.com/JacquesYL) or ylu28 [at] uncc [dot] edu
 
