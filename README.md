@@ -1,4 +1,4 @@
-## Quantitative Financial Risk Management
+# Quantitative Financial Risk Management
 
 This is a M.S. level course in Financial Engineering/Quant Finance/Computational Finance/Math Finance
 
