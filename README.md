@@ -45,6 +45,9 @@ Everything is distributed under Creative Commons Attribution Share Alike 4.0 (Yo
 
 Contact: [@JacquesYL](https://jacquesyl.github.io/) or [ylu28@uncc.edu](mailto:ylu28@uncc.edu)
 
+
+## License
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
