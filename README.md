@@ -33,5 +33,5 @@ You are free to use these notes. However, PLEASE CREATE A FORK.
 
 Everything is distributed under Creative Commons Attribution Share Alike 4.0 (You can use it freely but you are expected to post source of derivative work).
 
-Contact: [Yueliang (Jacques) Lu](ylu28@uncc.edu) or ylu28 [at] uncc [dot] edu [user@example.com](ylu27@uncc.edu)
+Contact: [@JacquesYL](https://jacquesyl.github.io/) or [ylu28@uncc.edu](mailto:ylu28@uncc.edu)
 
