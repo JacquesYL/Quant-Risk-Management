@@ -1,4 +1,4 @@
-# Quant-Risk-Management
+## Quant-Risk-Management
 
 This is a M.S. level course in Financial Engineering/Quant Finance/Computational Finance/Math Finance
 
@@ -17,17 +17,11 @@ The following textbooks may be useful for additional information:
 * Options, Futures and Other Derivatives, by John C. Hull
 * Monte Carlo Methods in Financial Engineering, by Paul Glasserman
 
-# My Students
+## My Students
 
-#### `stock_price_2000_2019.xlsx`
 
-* Monthly close prices data of 10 stocks from 2000 to 2019. Used for portfolio optimzation
 
-#### `jpm_price_2000_2019.xlsx`
-
-* Daily stock price of JP Morgan from 2000 to 2019. Used for option pricing 
-
-# Others
+## Others
 
 You are free to use these notes. However, PLEASE CREATE A FORK.
 
