@@ -10,12 +10,7 @@ Strategic) and measures for Risk.
 * Implement risk management framework for specific issues and specific risk types, Market, Credit,
 Interest-rate, Liquidity Risk, and Operational Risk.
 
-The following textbooks may be useful for additional information:
 
-* Risk Management and Simulation, by Aparna Gupta
-* Commercial Bank Risk Management, by Weidong Tian
-* Options, Futures and Other Derivatives, by John C. Hull
-* Monte Carlo Methods in Financial Engineering, by Paul Glasserman
 
 The rough outline of the course is as follows:
 
@@ -32,6 +27,15 @@ The rough outline of the course is as follows:
 11. Extreme Value Theory
 12. Role of Insurance for Risk Management
 
+
+## Main References 
+
+The following textbooks may be useful for additional information:
+
+* Risk Management and Simulation, by Aparna Gupta
+* Commercial Bank Risk Management, by Weidong Tian
+* Options, Futures and Other Derivatives, by John C. Hull
+* Monte Carlo Methods in Financial Engineering, by Paul Glasserman
 
 ## My Students
 
