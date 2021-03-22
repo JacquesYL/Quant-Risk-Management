@@ -19,10 +19,10 @@ The rough outline of the course is as follows:
 3. Market Risk – Measuring Market Risk: VaR approach
 4. Market Risk – Historical/Monte Carlo approach, Back Testig, Stress Testing
 5. Interest Rate risk – Interest Rate Hedging; Immunization 
-6. Credit Risk - Merton's Model & Copula
-7. Credit Risk - Credit Migration Method; Contingent Claim approach and other approaches
-8. Credit Risk – Hedging Credit Risk; Credit Derivatives 
-9. Carr-Madan Formula, Volatility Derivatives, and Correlation Derivatives 
+6. Trading Volatility and Volatility Derivatives
+7. Credit Risk - Merton's Model
+8. Credit Risk - Credit Migration Method; Contingent Claim approach and other approaches
+9. Credit Risk – Hedging Credit Risk; Credit Derivatives 
 10. Liquidity Risk, Interest Risk, and Asset-Liability Managementt 
 11. Operational Risk – Measuring Operational Risk
 12. Role of Insurance for Risk Management
